@@ -3,7 +3,7 @@
 https://raw.githubusercontent.com/HERBERTM3/iptv/main/peliculas.m3u
 
 #EXTINF:-1 tvg-logo="",Series-2
-https://github.com/werty76/epgiptvparaamigos/blob/master/Series.m3u8
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Series.m3u8
 
 #EXTINF:-1 tvg-logo="",Series-3
 https://raw.githubusercontent.com/roman1616/Pelis-A-Z/master/Series.m3u
